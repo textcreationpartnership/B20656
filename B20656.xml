@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second account in short, of the substance of the proceeding in the court of Kingstone upon Thames, upon the matter between R. Mayo the priest, plaintiffe, and E. Burrough defendant, the 25. of the seventh moneth 1658.</title>
+            <author>Cooke, Edward, fl. 1658-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20656</idno>
+            <idno type="STC">Wing C6005</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[42]</idno>
+            <idno type="STC">ESTC R229342</idno>
+            <idno type="EEBO-CITATION">99888334</idno>
+            <idno type="PROQUEST">ocm99888334</idno>
+            <idno type="VID">193536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193536)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1([46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second account in short, of the substance of the proceeding in the court of Kingstone upon Thames, upon the matter between R. Mayo the priest, plaintiffe, and E. Burrough defendant, the 25. of the seventh moneth 1658.</title>
+                  <author>Cooke, Edward, fl. 1658-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Edward Cooke.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mayo, Richard, 1631?-1695.</term>
+               <term>Burrough, Edward, 1634-1662.</term>
+               <term>Quakers --  England --  London --  Kingston upon Thames --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:193536:1"/>
+            <p>THE Cauſe why this is firſt Printed, before it come to your hands, is, becauſe I would not give cauſe of Suſpition, that I ſeek any thing in ſecret or under-hand of you. But would have all things come to Light and publick view, for I love the Light, and the Truth; to be juſtified thereby, or to ſuffer for the Teſtimony thereof.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:193536:1" rendition="simple:additions"/>
+            <head>A ſecond Account in ſhort, of the ſubſtance of the proceeding in the Court of <hi>Kingſtone</hi> upon <hi>Thames,</hi> upon the matter be<g ref="char:EOLhyphen"/>tween <hi>R. Mayo</hi> the Prieſt, Plantiffe, and <hi>E. Burrough</hi> Defen<g ref="char:EOLhyphen"/>dent, the <hi>25.</hi> of the ſeventh Moneth <hi>1658.</hi>
+            </head>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt. THe Judgement of the Court was earneſtly craved and deſired by R. <hi>Mayo</hi> and his Councellors, againſt <hi>E B.</hi> upon a verdict on record in the Court formerly gi<g ref="char:EOLhyphen"/>ven by an injuſt jury (as my former account of the former proceeding declareth.) And E. B. was called <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> anſwer for himſelfe, and ſhew what reaſon he could that Judgement <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not be given againſt him, who did appear, and anſwer in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar of the Lord, ſaying, that he was come before their judgement ſeat, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith great boldneſſe, becauſe he had the Lord on his ſide, and Truth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his ſide, and the witneſſe of God in all Conſciencies on his ſide, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtifie him that he had done <hi>R. Mayo</hi> no wrong, but had ſpoken the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruth of him; And for this cauſe judgement ought to be arreſted, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot given againſt him, becauſe (ſaid he) the Law condemnes no man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſpeaking the Truth, and he had ſpoken nothing but the Truth, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erning <hi>R. Mayo,</hi> as he was alwayes ready to prove that <hi>R, Mayo</hi> had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eld forth <hi>damnable Doctrine and Error;</hi> and this was ſufficient reaſon, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat judgement ought to be arreſted and not given, nor he condemned <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſpeaking the Truth, And he referred himſelfe to the Court, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the witneſſe of God in them all, whether they would condemn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im or juſtify him; but and if they did paſſe judgement upon him, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as onely for ſpeaking the Truth, and not for any wrong done by him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it ſhould lye upon themſelves and be their burden, though he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight unjuſtly ſuffer in this life by unjuſt judgement, yet theirs would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the judgement and the ſuffering in the life to come, when God did <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eward every man according to his work, and he would leave it upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, and to this purpoſe he ſpoke unto them. Then <hi>R. Mayos</hi> Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellors and the Court pleaded, that there was a verdict by jury againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, and that the Court was to go upon the verdict, which appeared <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon record againſt the defendant, to which <hi>E. B.</hi> replyed it was true, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n unjuſt verdict they had againſt him; but what then? he would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pply himſelfe, and his cauſe to the Judge in the ſight of the Lord, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſibly he might be convinced of the unrighteouſneſſe of the verdict, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd might not he then juſtly mitigate in the judgement, and deferre it, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd deny the verdict? and he did appeal to their Conſciencies, that it was an unjust verdict, for the jury had brought the matter to a wrong <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſue, and had not determined and judged according to the Truth and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnocency of the matter, nor brougth it to a Lawful iſſue, but had damnified him falſely, before they found any matter of fact againſt him, or the Tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of the matter was not ſearched into, nor the Doctrine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as not tryed nor determined of by the jury which he had charged and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roved in Court againſt <hi>R. Mayo,</hi> which Doctrine was <hi>damnable</hi> and <hi>error;</hi>
+               <pb n="2" facs="tcp:193536:2"/> but of the Doctrine the Jury had not judged whether it was ſound and true, or <hi>damnable</hi> and <hi>error,</hi> which the true iſſue of the matter ſtood up<g ref="char:EOLhyphen"/>on; but the Jury had unjuſtly damnified him (for ſpeaking maliciouſly as they ſaid) before any matter of fact truly found, and made appear according to equity, and that was injuſt, and therefore again, judge<g ref="char:EOLhyphen"/>ment ought to be arreſted upon that reaſon, becauſe they had not truly tryed the matter, whether <hi>R. Mayos</hi> ſayings, charged and proved a<g ref="char:EOLhyphen"/>gainſt him, were <hi>damnable Doctrine</hi> and <hi>Error,</hi> or whether they were not ſo, which was the true cauſe to be tryed, but they had condemned him for ſpeaking ſuch words, not trying and determining whether the words were true or falſe words, and till that was tryed, and his words proved falſe words; he could be no Tranſgreſſor, this was the ſubſtance and intent of his words, then <hi>R. Mayos</hi> Councel again replyed, that he might then blame the Jury, but according to the verdict upon re<g ref="char:EOLhyphen"/>cord againſt the defendent the Court was to proceed; then the <hi>Recorder</hi> of the Court ſaid reaſonably to this purpoſe, that the Jury was Judges of matter of fact, and he was judge in matter of Law; and if any thing could be objected, or error diſcovered in the buſineſſe as in matter of Law, by what appeared upon record, to that he would harken, for <hi>R. Mayo</hi> had in his Replication, laid in that <hi>E B.</hi> ſpoke the words char<g ref="char:EOLhyphen"/>ged againſt him without any ſuch cauſe by him in his plea alledged, &amp;c. Whereupon <hi>T. Moor</hi> gave divers Arguments as in matter of Law; and alſo produced the judgement of one Judge and three Lawers in writing under their hands, ſhewing divers ſound reaſons, wherefore judgement ought to be arreſted in this cauſe, ſhewing clearly according to Law, that the words charged againſt <hi>E. B.</hi> (to wit,) ſaying <hi>R. Mayo</hi> held forth damnable Doctrine and Error, (which is reckoned his offence, and wherefore the Jury gave verdict againſt him, and the Prieſt, and his Councellors begged judgement,) are not actionable in Law; in<g ref="char:EOLhyphen"/>ſtancing out of <hi>Cookes Inſtitutes,</hi> particular cauſes of the like nature, which could not bear an action, and much as to that purpoſe was ſpoken, and ſhewed under the four mens hands as afore ſaid, which were <hi>juſt excep<g ref="char:EOLhyphen"/>tions</hi> in point of Law, againſt the verdict upon record, wherefore judge<g ref="char:EOLhyphen"/>ment ought to be arreſted, and not paſſed in this cauſe againſt the de<g ref="char:EOLhyphen"/>fendant, but to all what was ſhewed and ſpoken to that purpoſe <hi>R. Mayos</hi> Councels replyed, the time was now paſt, to aledge theſe things, for the Jury had given their verdict upon oath againſt the defendant, wch was upon record, and thereupon waved all the reaſons that could be given, though never ſo ſound, and begged the judgement of the Court as afore ſaid againſt him, but then <hi>E. B.</hi> returned to the naked Truth, and came again to the ſimplicity and innocency of the matter, and waved all the multitude of Arguments, that could be ſpoken about points and formalities. of the Law, pleading that whereas the Court had given him liberty according to his right and birth right priviledge, that he might plead his own cauſe, and he inſtanced the time of his alledgement where<g ref="char:EOLhyphen"/>in he did ſay peradventure he might not plead his cauſe in the <hi>formalities</hi> and <hi>punctilios</hi> in the courſe of Law, yet he could plead the juſtneſs and
+<pb n="3" facs="tcp:193536:2"/> ſimplicity of the Truth in the matter, and the Court then had ſaid, that would ſerve, and be ſufficient; and ſaid <hi>E.</hi> B. the Court having thus ſpoken formerly; muſt I now be condemned for the want of a form and punctilio in Law, wanting no part of Truth on my ſide, nor manifeſta<g ref="char:EOLhyphen"/>tion of it, if they did, might not he ſay they had as it were betrayed him? though yet he could not ſay ſo, and at this Argument ſome of the Court ſeemed to be highly offended, as if he reflected upon them, wronging and retorting upon their former kindneſſe to him, which he did not, but ſpoke ſimply and innocently in the matter, onely to manifeſt Truth, and to perſwade them to do Truth and Juſtice, alwayes keeping cloſe to the Truth of the cauſe, and ſtill affirmed (as lawfully he may) that the particulars (which is declared in my firſt account) charged and proved againſt <hi>R. Mayo</hi> the Plantiffe in open Court, are damnable Do<g ref="char:EOLhyphen"/>ctrine and Error, and that he would juſtifie, if there he were pleading for his life, as it was but for his liberty at moſt, he would, nor could in Conſcience ſay no leſſe; and if they would condemne him, and judge him in an hundred pounds for ſpeaking the truth, he would bear it in patience and ſuffer, as for righteouſneſſe ſake, and he doubted not in the Lord, but to have the peace and preſence of the everlaſting Father, with him, if he ſuffered all his dayes, to this purpoſe he ſpoke, and thus ſhewed great courage in the Lord againſt all unrighteous judgement, looking onely to the Lord, and above all the World and ſuffering in it, as if he mattered nothing of all what they could do againſt him, ſaying when they had done all that could be againſt him; the Law whereby he might proceed a<g ref="char:EOLhyphen"/>gainſt them was the Law of Chriſt, and he might pray for his Ene<g ref="char:EOLhyphen"/>mies, and bleſſe them that perſecute, and ſay the Lord forgive them, when they had done the evil they could, ſtill affirming that he had ſpo<g ref="char:EOLhyphen"/>ken the Truth concerning his adverſary; Then <hi>R. Mayo</hi> being ſitting upon the <hi>bench,</hi> he made ſome anſwer, ſeeming to juſtify his Doctrine formerly delivered by him, and charged againſt him to be damnable, wch he repeated, and would have vindicated, and ſaid; <hi>that the light which Chriſt lighteth every man withall,</hi> John 1.9. <hi>is carnall and darkneſs.</hi> 2. <hi>And that he did exhort the people in his Sermon, to follow and obey a light which is not Chriſt, nor the light of the Goſpel.</hi> 3. <hi>The Apoſtle</hi> Paul <hi>did exhort the Saints to follow and obey a light, which was not the Light of the Goſpel.</hi> 4. <hi>Chriſt was not that word that</hi> David <hi>walked by, when he ſaid thy word is a light,</hi> &amp;c. 5. <hi>A man may be a righteous man, and not a godly man;</hi> He ſeemed a little to vindicate theſe things, but to no purpoſe, as to men of underſtanding in the things of God; for he brought not one ſcrip<g ref="char:EOLhyphen"/>ture to prove his Doctrine at that time, though ſome of the Court his friends bid him: ſo its manifeſt he continues in ignorance and blindneſs ſtill, and his own folly cannot reprove him, nor make him aſhamed: Then <hi>T. Moor</hi> ſaid, he would take in hand to prove to all people, in the ſteeple houſe, or any other publique place, where <hi>R. Mayo</hi> would meet him, if he would give him a meeting, that he was guilty of holding forth <hi>damnable Doctrine and error:</hi> and he ſhould maintain it in Argument againſt him, at any time and place where he would meet him, that the par<g ref="char:EOLhyphen"/>ticulars
+<pb n="4" facs="tcp:193536:3"/> held forth by him, and proved in Court againſt him, are <hi>damna<g ref="char:EOLhyphen"/>ble doctrine and error,</hi> then <hi>John Feilder</hi> ſpoke to the Judges, that <hi>R. May<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſhould come off the bench, for it was againſt Act of Parliament, that any Prieſt ſould ſit upon the bench in any Judicatory: and I ſay it was alſo unſeemly, that the plantiffe and Accuſer ſhould ſit upon the bench as if he was Judge in his own cauſe, and the <hi>Defendant,</hi> and accuſed ſtand <hi>as</hi> at the Barr: but the Court cauſed <hi>R. Mayo</hi> to come down off the bench, who did with ſhame, and his practiſe ſhewed, he is truly ſuch a one as Chriſt cryed wo againſt who loved the <hi>Chief-ſeats, and uppermoſt rooms in the Aſſemblies, Mat.</hi> 23. But <hi>R. Mayo</hi> the Prieſt ſeemed to ſpeak ſome<g ref="char:EOLhyphen"/>thing as if he would give <hi>T. Moor</hi> a meeting with 20. people as ſuch a number, but before he had ended his words as to that, the Court ſtop<g ref="char:EOLhyphen"/>ped him, and his own friends would not ſuffer him to ſpeak further to it: then he ſell upon the matter in hand, much deſiring he was and craved to have judgement by the Court againſt <hi>E. B.</hi> and produced the opinion in writing of <hi>Serjeant Maynard</hi> to this purpoſe, that if the word, were true, he deſerved <hi>deprivation</hi> of his place, &amp;c. and therefore the words ſpoken againſt him were <hi>actionable,</hi> &amp;c. ſome controverſy aroſe about the meaning of the words: (if the words be true) and by (if the words be true) we underſtood and ſaid he meant, if that it was true, that he was guilty of preaching <hi>damnable doctrine and error:</hi> then he diſ<g ref="char:EOLhyphen"/>ſerved deprivation, &amp;c. but <hi>R. Mayo</hi> and his Councel, would have gi<g ref="char:EOLhyphen"/>ven ſome other meaning upon the words, for their own advantage, and what the true meaning of <hi>Serjeant Maynard</hi> is, remains in his own breſt, the words ſeemed doubtful.</p>
+            <p>And now I come to ſome more particulars of <hi>R. Mayos</hi> damnable Doctrines, charged againſt him, and perferred to be proved in open Court, whereby his wickedneſſe, and <hi>E. Bs.</hi> guiltleſſeneſs may more ap<g ref="char:EOLhyphen"/>pear: firſt it was charged, that <hi>R. Mayo</hi> had affirmed, <hi>that the Devill is the power of God. 2ly. That the Goſpel was not the power of God, a roſe<g ref="char:EOLhyphen"/>cake is as much the power of God. 3ly. R. Mayo</hi> affirmed, <hi>if one man killed and murthered another, he did it by the power of God:</hi> Theſe things were charged upon <hi>R. Mayo,</hi> and not denyed by him, but he went to juſtify them in open Court, and affirmed that the Devil is the power of God, and ſaid he would prove it by Scripture, and brought that Scrip<g ref="char:EOLhyphen"/>ture <hi>Acts</hi> 8, 9, 10. where the unclean Spirits and poor bewiched, peo<g ref="char:EOLhyphen"/>ple of <hi>Samaria,</hi> whom <hi>Simon Magus</hi> the Scorcerer had bewiched, ſaid of him <hi>this man is the great power of God,</hi> as you may read: and this was his proof, that the Devill is the power of God: and here all may ſee <hi>R. Mayos</hi> error and damnable doctrine, and wickedneſſe, and ignorance, and blaſphemie, who hath brought the Teſtimony of poor bewitched people, and unclean Spirits, that know not God, but were wholly without him in the World, to prove what he affirmed, (to wit) <hi>that the Devil is the power of God,</hi> and its the ſame Spirit in him that affirmes it, as it was in the bewitched people, that ſaid the Sorcerer was the great power of God, who are his Witneſſes and Teſtimonie of what he af<g ref="char:EOLhyphen"/>firms, and he may as well ſay, Chriſt hath a Devil, and bring the Pha<g ref="char:EOLhyphen"/>riſees
+<pb n="5" facs="tcp:193536:3"/> words, who ſaid thou haſt a Devil: and this is the ſame in nature with his vvords: but the vvhole Court ſavv his folly and ignorance, and he vvas ſenſible of his ovvn blindneſſe, and might be of the deceit of his ovvn heart. And is not this damnable Doctrine and Error, and of the Devil to affirm, and endevour to vindicate that the Devil is the power of God? vvas ever the like heard, or held forth by ſober men? may not he and all his people be aſhamed of his doctrines: Chriſt ſaid the Devil was out of the Truth, and there vvas no Truth in him, and vvas a murtherer, and a Lyar from the beginning, and abode not in the Truth, and all the holy Prophets and Apoſtles gave their Teſtimony againſt the Devil and his Works, and did diſtinguiſh betvveen Chriſt, vvho is the povver of God, and the Devil vvho is againſt him, for the Apoſtle vvas ſent to turn from Satans povver, from the Devil, to the povver of God, <hi>Acts</hi> 18. Here the Apoſtle makes them tvvo, and ſhevvs they vvere not one, but contrary one to the other: and he called the Devil the adverſary of their ſouls, the roaring Lyon that vvent about ſeeking vvhom he might devour, and the Devil made vvar againſt Chriſt, and tempted him to evill, and perſecuted the Woman, and the rem<g ref="char:EOLhyphen"/>nant of her ſeed: <hi>and Hell was prepared for the Devill and his Angels, Mat.</hi> 25.41. ſearch through the Scripture, and ſee vvhat is ſpoken of the Devil, and ſee if the Devil and the povver of God be one, and the ſame as <hi>R. Mayo</hi> holds forth, or vvhether they are not diſtinguiſhed to be contrary one to the other, through the Scripture, and Chriſt is called <hi>the power of God,</hi> and the povver of God made the vvorld, and upholds all things: and if the Devil be the povver of God as is affirmed by this vvicked man, then the povver of God is out of the Truth, and abode not in it, but is a murtherer and a lyar, and there is no Truth in it, and is the adverſary of ſouls, and the roaring Lion that ſeeks to devour ſouls, and the power of God made war againſt Chriſt, and tempted him to evil, and perſecuted the Saints, and the ſeed of God, and made war againſt them, and Hell is prepared for the power of God, and muſt go into the lake, according to this doctrine; and if his doctrine be true, then the power of God is the Devil, and made the world, and upholds it, and Chriſt is the Devil, or elſe <hi>R. Mayos</hi> doctrine is damnable and error; but this doctrine is damnable and error, and of the Devil as all men may be<g ref="char:EOLhyphen"/>hold and ſee, for the Devil and the power of God is contrary one to the other, and are not one but two diſtinct; Blaſphemy and error in the high<g ref="char:EOLhyphen"/>eſt nature is this his doctrine; and the Scripture ſaith Chriſt was made manifeſt, to deſtroy the Devil, and the works of the Devil: now if the Devil be the power of God, as R. <hi>Mayo</hi> ſaith, then Chriſt was manifeſt to deſtroy the power of God and his works, which he alſo affirmed as may be proved againſt him, Oh! error and damnable doctrine in the higheſt nature, which is held forth publiquely in the open Court! may not the Court be aſhamed of this their Miniſter, and the Jury alſo, who hath given verdict againſt <hi>E. B.</hi> for ſpeaking Truth? for is not R. <hi>Mayo</hi> guilty of holding forth damnable doctrine and error? let the light in all mens Conſciences judge, and let them tremble to give judgements in this
+<pb n="6" facs="tcp:193536:4"/> cauſe, againſt a man for ſpeaking the Truth, leaſt the Lord God bring judgement, and wrath upon them, and all men behold their ſhame, if they condemn the innocent, and juſtifie the ungodly 2. R. <hi>Mayo af<g ref="char:EOLhyphen"/>firmed that the Goſpel was not the power of God, but a roſe cake was as much the power of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> And this is damnable Doctrine, for if the Goſpel be not the power of God as R. <hi>Mayo</hi> ſaith, then the Goſpel is not to be believed for ſalvation, nor cannot convert Sinners to God, nor is to be preached to ſave ſouls, for nothing can ſave, nor convert ſinners but the power of God. And the Apoſtle ſaid the Goſpel is the power of God, <hi>Rom.</hi> 1.16. but R. <hi>Mayo</hi> hath ſaid quit the contrary, that the Goſpel is not the power of God, and the Goſpel is everlaſting, and converted and ſaved Sinners, and the Goſpel the power of God was preached to <hi>Abraham,</hi> before the Scriptures were written, and was preached to all the Saints by the Apo<g ref="char:EOLhyphen"/>ſtles, and if any preached another Goſpel, then the power of God, that <hi>Paul</hi> preached, let him be accurſed, ſaith the Apoſtle: but a <hi>roſe cake</hi> is a dead thing and without life, and cannot convert Sinners, nor ſave ſouls, nor is everlaſting, nor the power of God: is any upon earth ſo blind, to believe that a dead <hi>roſe cake is as much the power of God as the Goſpel,</hi> and to be equal with the Goſpel, as R. <hi>Mayo</hi> ſaith? is not this the greateſt blindneſſe that ever was uttered by a man, profeſſing the Miniſtery of Chriſt his blindneſſe may be felt, and it is damnable Doctrine and er<g ref="char:EOLhyphen"/>ror, to hold forth that the glorious Goſpel of Chriſt is no more the power of God, then a dead <hi>roſe cake,</hi> which cannot p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce people to the heart, as the Goſpel did the <hi>Jews,</hi> and Gentiles, its error, and contempt againſt the Goſpell, and ſcornful blaſphemous words againſt God, and Chriſt, and the Goſpel, to make it of no more eſteem then a <hi>roſe cake,</hi> as this man hath done: and is it not time for people, to turn from ſuch a man, whoſe er<g ref="char:EOLhyphen"/>ror and damnable doctrine is thus fully manifeſt, and his vvickedneſs in perſecuting a man, and begging judgement of a hundred pound againſt him, for ſaying his doctrine is damnable and error, which is nothing but the Truth againſt him? but all juſt men will ſee his ſhame, and the un<g ref="char:EOLhyphen"/>juſtneſſe of that Jury that paſſed on the matter, who gave ſuch unrea<g ref="char:EOLhyphen"/>ſonable dammage, for truth ſpeaking, having no reſpect to the juſt cauſe, nor to the danger they run their own ſoules into and ſome knows it be<g ref="char:EOLhyphen"/>fore this, who God ſuddenly after cut off by judgement, and took his life from the earth, which may be a warning to the reſt of them all to repent.</p>
+            <p>
+               <hi>R. Mayo</hi> affirmed that <hi>if one man killed and murdered another, he did it by the power of God. Anſ.</hi> And this is damnable doctrine and error, for all murder is of the Devil, and he is a murderer from the beginning. <hi>John</hi> 8.44 and murder is of him and from him, and not by the power of God; for the power of God in Chriſt, and <hi>Moſes</hi> for bad all murder and the A<g ref="char:EOLhyphen"/>poſtles ſaid murder was a work of the fleſh, and murderers ſhould not enter the Kingdom of God. but were without the gate, to be nodden in the wine preſſe of the wrath of God: ſearch the ſcriptures and ſee what Teſtimony all the ſervants of God gave of murder, and ſhewed
+<pb n="7" facs="tcp:193536:4" rendition="simple:additions"/> that it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Devil, and not by the power of God, as <hi>R: Mayo</hi> ſaith: and if it be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaith, that it is by the power of God, then murder is no ſinne; for what the power of God leads to do, and doth, is no ſinne, and then people may be juſtified in murdering and killing: for what the creature doth by the moving of the power of God, God condemns him not in it, but juſtifies him, and is not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nable doctrine and errour? Can any man be ſo blinde as not to ſee it? the Lord will judge theſe wicked doctrines, and confound them: but one named that ſcripture to prove his doctrine, and would have vindicated that if one man murder another, he did it by the power of God, mentioning where Chriſt ſaid to <hi>Pilate,</hi> Thou could have no power againſt me except it were given thee from above, not minding the laſt words, He that delivered me unto thee hath the greater ſinne; and by this he would have proved, That murder is by the power of God: And it was asked further, if the power of God murdered Chriſt? Or did the Jewes murder him by the power of God? but to this no anſwer w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> given: ſo this is written as a further account of <hi>Richard Mayo</hi> his falſe d<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>s, that are damnable, and errours in the higheſt degree, as all ſpiritual <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may judge, and how can the Court juſtly comdemn <hi>Ed. Burrough,</hi> except t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> will proceed wholly againſt reaſon and equity, and againſt God, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their own conſciences, for to all mens ſight and knowledge that fears God <hi>Richard Mayo</hi> is guilty of holding forth damnable doctrine and error, and if they condemn <hi>Ed. Burrough</hi> in an hundred pounds for ſo affirming (and nothing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they have againſt him) then the Lord ſhall condemn them, and their falſe judgement everlaſtingly, and all ſober men ſhall ſee their folly and wickedneſſe, and that they become alſo guilty of <hi>Richard Mayo</hi>'s ſin: but con<g ref="char:EOLhyphen"/>cerning of them I hope better, whom I verily believe, may ſhew moderati<g ref="char:EOLhyphen"/>on in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and clear the innocent, that God may bleſſe them, and not act againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and their own conſciences, which if they do ſo, the Lord ſhall lay it to their charge, and it ſhall be their burden when God ariſeth to judge<g ref="char:EOLhyphen"/>ment. One thing more at the laſt the Judge ſpake, thus, <hi>If Edward Burrough</hi> the Defendant would in the leaſt confeſſe he was ſorry, and had wrongd <hi>Rich. Mayo,</hi> he would perſwade <hi>R. Mayo,</hi> and he thought he could prevail with him to acquit and diſcharge the ſute, and clear <hi>Ed. Burrough,</hi> and end the matter, to which <hi>E. B.</hi> replied, if his life were to be taken away for it, he could not do it: for to keep his conſcience clear and free from offences to God, is of more price with him then all outward liberty or things, and asked <hi>R. Mayo</hi> if he would con<g ref="char:EOLhyphen"/>feſſe. That the light which he exhorted people to follow, were the light of the Goſpel, it ſo, then ſome miſtake would be found between them; and more might be ſaid, but R. <hi>Mayo</hi> would not acknowledge that. So then <hi>Ed. Bur<g ref="char:EOLhyphen"/>rough</hi> alwayes affirmed himſelf clear, and that <hi>R. Mayo</hi> was guilty of preaching damnable doctrine and errour.</p>
+            <p>And whereas it was alleadged in Court againſt <hi>Ed. Burrough</hi> That <hi>Rich. Mayo</hi> Plantiffe ſaith in his Replication, That <hi>Ed. Burrough</hi> the Defendant ſpoke the Words <hi>(thou holdect forth damnable doctrine and errour)</hi> of his own wrong and malice, &amp;c. without any ſuch cauſe by him alleadged in his plea, and as if <hi>Ed. Burrough</hi> had ſhewed no juſt cauſe yet, wherefore he ſpake the words againſt <hi>R. Mayo</hi> Defendant.</p>
+            <pb n="8" facs="tcp:193536:5"/>
+            <p>To which I anſwer, It is ſtrange that the Court would ſhew ſuch miſtake, or ignorance; for hath nor <hi>Ed. Burrough</hi> proved lawfully and juſtly; firſt that he was invited by <hi>R. Mayo</hi> three times to make what objections he could againſt his doctrine. Secondly, he heard him preach ſuch things, and affirm them under his hand (vvhich are proved againſt him) vvhich to all ſpirituall men are ſeen to be falſe and erronious doctrine, which if people obey and believe they cannot be ſaved, And theſe are ſufficient reaſons and cauſes wherefore <hi>Ed. Burrough</hi> might juſtly charge upon him damnable doctrine and errour. So hee hath lyed to the Court in his Replication, And hereby the Court and Judge may fully know that <hi>Ed. Burrough</hi> had ſufficient reaſon to affirme againſt <hi>Rich. Mayo.</hi> What he did, &amp; he did it not without lawfull reaſon, which reaſon is pure and may juſtifie him in what he hath done; and the Court need not alleadge that againſt <hi>Ed. Burrough</hi> if they will but come to the truth and innocency of this cauſe.</p>
+            <p>Then in the Adjourning of the Court, the Recorder of himſelf juſtly and ſo<g ref="char:EOLhyphen"/>berly propounded the differing of judgement in the Cauſe, and judgement is deferred for a ſeaſon, till after the Terme.</p>
+            <p>Much more might be written, but this in ſhort is true for ſubſtance, and I leave it to others to give an account at large; if any unjuſt proceedings in the Court require it; but enough is done and ſaid about this matter, if it be now ended, and the more that is medled in it, the greater will be the ſhame of him that doth the wrong, and Truth will bring all things to light, and confound all damnable doctrine and errour, and unrighteous Judgement.</p>
+            <closer>
+               <signed>A friend to all that fear God <hi>EDWARD COOK,</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
